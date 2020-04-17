@@ -1,0 +1,31 @@
+c:\users\vatra\source\repos\DimGraph\DimGraph\obj\Debug\DimGraph.csprojResolveAssemblyReference.cache
+c:\users\vatra\source\repos\DimGraph\DimGraph\obj\Debug\DimGraph.Properties.Resources.resources
+c:\users\vatra\source\repos\DimGraph\DimGraph\obj\Debug\DimGraph.csproj.GenerateResource.Cache
+c:\users\vatra\source\repos\DimGraph\DimGraph\obj\Debug\DimGraph.csproj.CoreCompileInputs.cache
+c:\users\vatra\source\repos\DimGraph\DimGraph\bin\Debug\DimGraph.exe.config
+c:\users\vatra\source\repos\DimGraph\DimGraph\bin\Debug\DimGraph.exe
+c:\users\vatra\source\repos\DimGraph\DimGraph\bin\Debug\DimGraph.pdb
+c:\users\vatra\source\repos\DimGraph\DimGraph\obj\Debug\DimGraph.exe
+c:\users\vatra\source\repos\DimGraph\DimGraph\obj\Debug\DimGraph.pdb
+c:\users\vatra\source\repos\DimGraph\DimGraph\obj\Debug\DimGraph.Form1.resources
+C:\Users\vatra\OneDrive\Documents\Visual Studio 2017 projects\DimGraph\DimGraph\bin\Debug\DimGraph.exe.config
+C:\Users\vatra\OneDrive\Documents\Visual Studio 2017 projects\DimGraph\DimGraph\bin\Debug\DimGraph.exe
+C:\Users\vatra\OneDrive\Documents\Visual Studio 2017 projects\DimGraph\DimGraph\bin\Debug\DimGraph.pdb
+C:\Users\vatra\OneDrive\Documents\Visual Studio 2017 projects\DimGraph\DimGraph\obj\Debug\DimGraph.csprojAssemblyReference.cache
+C:\Users\vatra\OneDrive\Documents\Visual Studio 2017 projects\DimGraph\DimGraph\obj\Debug\DimGraph.Form1.resources
+C:\Users\vatra\OneDrive\Documents\Visual Studio 2017 projects\DimGraph\DimGraph\obj\Debug\DimGraph.Properties.Resources.resources
+C:\Users\vatra\OneDrive\Documents\Visual Studio 2017 projects\DimGraph\DimGraph\obj\Debug\DimGraph.csproj.GenerateResource.cache
+C:\Users\vatra\OneDrive\Documents\Visual Studio 2017 projects\DimGraph\DimGraph\obj\Debug\DimGraph.csproj.CoreCompileInputs.cache
+C:\Users\vatra\OneDrive\Documents\Visual Studio 2017 projects\DimGraph\DimGraph\obj\Debug\DimGraph.exe
+C:\Users\vatra\OneDrive\Documents\Visual Studio 2017 projects\DimGraph\DimGraph\obj\Debug\DimGraph.pdb
+C:\Users\Dimitrie Vatra\OneDrive\Documents\Visual Studio 2017 projects\DimGraph\DimGraph\bin\Debug\DimGraph.exe.config
+C:\Users\Dimitrie Vatra\OneDrive\Documents\Visual Studio 2017 projects\DimGraph\DimGraph\bin\Debug\DimGraph.exe
+C:\Users\Dimitrie Vatra\OneDrive\Documents\Visual Studio 2017 projects\DimGraph\DimGraph\bin\Debug\DimGraph.pdb
+C:\Users\Dimitrie Vatra\OneDrive\Documents\Visual Studio 2017 projects\DimGraph\DimGraph\obj\Debug\DimGraph.Form1.resources
+C:\Users\Dimitrie Vatra\OneDrive\Documents\Visual Studio 2017 projects\DimGraph\DimGraph\obj\Debug\DimGraph.Properties.Resources.resources
+C:\Users\Dimitrie Vatra\OneDrive\Documents\Visual Studio 2017 projects\DimGraph\DimGraph\obj\Debug\DimGraph.csproj.GenerateResource.cache
+C:\Users\Dimitrie Vatra\OneDrive\Documents\Visual Studio 2017 projects\DimGraph\DimGraph\obj\Debug\DimGraph.exe
+C:\Users\Dimitrie Vatra\OneDrive\Documents\Visual Studio 2017 projects\DimGraph\DimGraph\obj\Debug\DimGraph.pdb
+C:\Users\Dimitrie Vatra\OneDrive\Documents\Visual Studio 2017 projects\DimGraph\DimGraph\obj\Debug\DimGraph.csprojAssemblyReference.cache
+C:\Users\Dimitrie Vatra\OneDrive\Documents\Visual Studio 2017 projects\DimGraph\DimGraph\obj\Debug\DimGraph.About.resources
+C:\Users\Dimitrie Vatra\OneDrive\Documents\Visual Studio 2017 projects\DimGraph\DimGraph\obj\Debug\DimGraph.csproj.CoreCompileInputs.cache
